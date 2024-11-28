@@ -1,4 +1,7 @@
 /* Estilos para el header y footer */
+body {
+    background-color: #55818a; /* Puedes cambiar este color por el que prefieras */
+}
 header {
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
 }
